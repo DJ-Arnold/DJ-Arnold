@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/DJ-Arnold/DJ-Arnold/refs/heads/main/github%20banner.png)
+
 <div align="center">
 <strong>Hello!</strong> Welcome to my Account. My name is DJ and here are some things about me:
 
