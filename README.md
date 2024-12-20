@@ -1,11 +1,22 @@
+<div align="center">
 <strong>Hello!</strong> Welcome to my Account. My name is DJ and here are some things about me:
 
-🎵 My Favorite of Music is Rap/Hip-Hop
+<li>🎵 My Favorite of Music is Rap/Hip-Hop</li>
 
-💻 I'm a self-taught web coder
+<li>💻 I'm a self-taught web coder</li>
 
-🇺🇸 I'm American!
+<li>🇺🇸 I'm American!</li>
 
-![DJ's Github Stats](https://github-readme-stats.vercel.app/api?username=dj-arnold&show_icons=true&theme=dark)
+  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
+<div align="center">  
+  
+![DJ's Github Stats](https://github-readme-stats.vercel.app/api?username=dj-arnold&hide=issues&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+</div>
+
+
