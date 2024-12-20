@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/DJ-Arnold/DJ-Arnold/refs/heads/main/github%20banner.png)
+![Banner](https://raw.githubusercontent.com/DJ-Arnold/DJ-Arnold/refs/heads/main/github%20banner.jpg)
 
 <div align="center">
 <strong>Hello!</strong> Welcome to my Account. My name is DJ and here are some things about me:
