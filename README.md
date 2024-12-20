@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/DJ-Arnold/DJ-Arnold/refs/heads/main/github%20banner.jpg)
 
 <div align="center">
-<strong>Hello!</strong> Welcome to my Account. My name is DJ and here are some things about me:
+Welcome to my GitHub! My name is DJ and here are some things about me:
 
 <ul>
   <br>
